@@ -1,5 +1,4 @@
 playwright
 pandas
 pytest
-streamlit
-altair<5
+streamlit>=1.42.0
